@@ -22,7 +22,7 @@ public class symethric {
                     break;
                 }
             }
-            if(res == "NO"){
+            if(res.equals("NO")){
              break;
             }
 
