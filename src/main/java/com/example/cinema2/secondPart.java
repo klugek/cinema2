@@ -24,8 +24,8 @@ public class secondPart {
             dollars = (polovina * seats * 10) + (druhaPolovina * seats * 8);
             System.out.println("Total income:");
             System.out.println("$"+ dollars);
-            }
-            
+        }
+
 
 
     }
