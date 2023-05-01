@@ -86,7 +86,7 @@ public class thirdPart {
             }
             System.out.println();
         }
-        System.out.println("Ahoj")
+
 
     }
 }
